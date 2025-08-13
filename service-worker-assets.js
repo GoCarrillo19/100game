@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "rwBZy4jd",
+  "version": "1xsMHglQ",
   "assets": [
     {
       "hash": "sha256-+uv6dQCrcM3n3jCNeQ/rI4OG28sGRBwpu6AhLSmNwbc=",
@@ -38,7 +38,7 @@ self.assetsManifest = {
       "url": "Image/victory.png"
     },
     {
-      "hash": "sha256-IPoqUF4//T4d1qXv5OApdATLuO6Hhy2RGSyxCt0c2Xw=",
+      "hash": "sha256-FW0vXg70cRbXnjlHfbpUR6UHMxOaprl6Tp9IT3V6BSM=",
       "url": "_framework/100Botistos.Client.dll"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/System.dll"
     },
     {
-      "hash": "sha256-xLR0fwyA+zZtjJfyR5AoJlo/97lDnA5aNSYGAcF/XmQ=",
+      "hash": "sha256-uA7u/nCK+vQftLL7ViUpN67JkpwWHuDZtA51bO26ipU=",
       "url": "_framework/blazor.boot.json"
     },
     {
